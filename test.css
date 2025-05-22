@@ -4,15 +4,6 @@
   margin: 0;
   box-sizing: border-box;
 }
-@media screen and (max-width: 600px) {
-  body {
-    font-size: 14px;
-    padding: 10px;
-  }
-
-  .container {
-    flex-direction: column;
-  }
 }
 body {
   display: grid;
