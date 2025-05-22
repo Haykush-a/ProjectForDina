@@ -38,9 +38,9 @@ body {
   display: none;
 }
 .question3{
-  margin-left: 3rem;
-  font-size: 2.8rem;
-  margin-bottom: 1rem;
+  margin-left: 3rem auto;
+  font-size: 2.8rem auto;
+  margin-bottom: 1rem auto;
   display: none;
 }
 .question-container {
@@ -56,8 +56,8 @@ body {
   margin-bottom: 3rem;
 }
 .question {
-  font-size: 2.8rem;
-  margin-bottom: 1rem;
+  font-size: 2.8rem auto;
+  margin-bottom: 1rem auto;
 }
 .button-container {
   display: flex;
